@@ -1,6 +1,6 @@
 module github.com/nikolya64/auth-module
 
-go 1.24.3
+go 1.23.6
 
 require (
 	github.com/gin-gonic/gin v1.10.1
